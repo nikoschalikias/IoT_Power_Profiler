@@ -26,20 +26,31 @@ x2000 --> 0.5μV @ shunt
  *  $20
  *  3.5 MHz
 
-## Simple Voltage Regulator solution
-A way to avoid the Burden Voltage issue @ 10 Ω shunt 
+## Simple Voltage Regulator proposal
+A way to avoid the Burden Voltage issue @ 10 Ω shunt
 
+<img src="img/04.PNG"
+width = 800
+/>
 
 ## Notes
+
+### Series regulator topologies
+<img src="img/05.PNG"
+width = 700
+/>
+
+### Review Notes
 <img src="img/01.PNG"
 width = 800
 />
+
 
 <img src="img/02.PNG"
 height = 1000
 /> <img src="img/03.PNG"
 height = 1000
-/>
+/> 
 
 ## Links
  *  https://www.eevblog.com/forum/testgear/measuring-current-on-a-low-power-iot-device/25/
