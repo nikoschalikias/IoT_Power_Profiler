@@ -25,6 +25,9 @@ x500 --> 2μV @ shunt
 x2000 --> 0.5μV @ shunt
  *  $20
  *  3.5 MHz
+ *  Simple and clean solution
+ *  **Using 2  AD8428 and 2 series resistors can cover the range from 1uA to 500mA**
+
 
 ## Simple Voltage Regulator proposal
 A way to avoid the Burden Voltage issue @ 10 Ω shunt
